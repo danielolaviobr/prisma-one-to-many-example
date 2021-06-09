@@ -1,0 +1,3 @@
+# Prisma One-to-Many Example
+
+This repository is to showcase the One-to-Many relation in [Prisma](https://www.prisma.io/?utm_source=Prisma%20Ambassador&utm_medium=Blog%20post&utm_campaign=Prisma%20AP%20Daniel%20Olavio%20Ferreira). For further explanations please refer to the [Working with relations in Prisma - One-to-Many](https://hashnode.com/post/working-with-relations-in-prisma-one-to-many-ckpps0ztg0ai0whs16nfv7c7k)
